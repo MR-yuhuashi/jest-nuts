@@ -1,5 +1,4 @@
-import calc from './calc';
-console.log(calc);
+import calc from '../src/calc';
 
 test('adds 1 + 2 to equal 3', () => {
   const result = 3;

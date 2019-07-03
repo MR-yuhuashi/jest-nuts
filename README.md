@@ -1,4 +1,13 @@
 # jest-nuts
+## 运行测试用例
+1、运行全部测试用例
+```
+npm run test 或 jest
+```
+2、运行单个测试用例
+```
+jest src/ajax.test.js
+```
 ## es6配置 可以写es6+代码
 1、安装babel相关的包
 ```
